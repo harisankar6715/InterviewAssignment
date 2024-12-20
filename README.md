@@ -1,6 +1,7 @@
 # InterviewAssignment
-Work done on as part of an interview at iWare Software Solutions Kochi.
-  - .Net 8 API for Employee Management
-  - Implemented SOLID Principles
-  - 3-Tire Architecture
-  - Followed Repository Patterns
+Work done on as part of an interview assignment.
+  -A .NET 8 API for an Employee Management System.
+  -Models for Employee and Company.
+  -Implementation following the Repository Pattern with a 3-tier architecture.
+  -Adherence to SOLID principles.
+  -Inclusion of interfaces as required.
